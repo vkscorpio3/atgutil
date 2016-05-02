@@ -34,7 +34,7 @@ Object myComponent = ComponentResolver.getComponent("/a/b/c/Component");
 ```
 
 ## InsertablePipelineServlet
-An imporved vesion of the OOTB InsertableServletImpl it adds a simple toggle  ```java isEnabled() ``` to switch to enable or pass straigh to the next servlet.
+An imporved vesion of the OOTB InsertableServletImpl it adds a simple toggle  ``` isEnabled() ``` to switch to enable or pass straigh to the next servlet.
 It also fix wrapping of the request and response see the code for more detailed explanation 
 
 ## UserLocalePipelineServlet
