@@ -1,6 +1,6 @@
 # atgutil
 =======
-Is a collection of utils that I have created to make using Oracle Commerce ATG easier to develop.
+Is a collection of utils to make using Oracle Commerce ATG easier to develop.
 You can uses this as a pluggin module or just take the peices that you need and weave it into you own module
 
 ## BeanUtils
